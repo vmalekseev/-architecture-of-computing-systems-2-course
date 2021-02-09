@@ -1,11 +1,11 @@
 # Архитектура вычислительных систем 
 
 
-Студент: Алексеев Валерий Михайлович  
-Группа: БПИ197  
-Вариант: 1  
+### Студент: Алексеев Валерий Михайлович  
+### Группа: БПИ197  
+### Вариант: 1  
 
-Условие задачи:  
+### Условие задачи:  
 
 Разработать программу, которая вводит одномерный массив A[N], формирует из элементов массива A новый массив B по правилам, указанным в таблице, и выводит его. Память под массивы может выделяться как статически, так и динамически по выбору разработчика.
 
@@ -21,10 +21,10 @@
 Массив B из положительных элементов A.  
 
 
-Работа программы при корректных данных:  
+## Работа программы при корректных данных:  
 ![Image alt](https://github.com/vmalekseev/-architecture-of-computing-systems-2-course/blob/main/task-02/screenshots/screenshot_1.jpg)
 ![Image alt](https://github.com/vmalekseev/-architecture-of-computing-systems-2-course/blob/main/task-02/screenshots/screenshot_2.jpg)  
 
-Работа программы при некорректных данных:  
+## Работа программы при некорректных данных:  
 ![Image alt](https://github.com/vmalekseev/-architecture-of-computing-systems-2-course/blob/main/task-02/screenshots/screenshot_3.jpg)
 ![Image alt](https://github.com/vmalekseev/-architecture-of-computing-systems-2-course/blob/main/task-02/screenshots/screenshot_4.jpg)
