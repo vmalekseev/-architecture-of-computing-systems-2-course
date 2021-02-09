@@ -21,4 +21,10 @@
 Массив B из положительных элементов A.  
 
 
+Работа программы при корректных данных:  
+![alt text] (https://github.com/vmalekseev/-architecture-of-computing-systems-2-course/blob/main/task-02/screenshots/screenshot_1.jpg)
+![alt text] (https://github.com/vmalekseev/-architecture-of-computing-systems-2-course/blob/main/task-02/screenshots/screenshot_2.jpg)  
 
+Работа программы при некорректных данных:  
+![alt text] (https://github.com/vmalekseev/-architecture-of-computing-systems-2-course/blob/main/task-02/screenshots/screenshot_3.jpg)
+![alt text] (https://github.com/vmalekseev/-architecture-of-computing-systems-2-course/blob/main/task-02/screenshots/screenshot_4.jpg)
